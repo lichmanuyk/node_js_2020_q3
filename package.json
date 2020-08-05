@@ -6,6 +6,7 @@
   "scripts": {
     "task1": "nodemon task1",
     "task2": "nodemon task2",
+    "task2ram": "nodemon task2ram",
     "task1babel": "nodemon --exec babel-node task1",
     "task2babel": "nodemon --exec babel-node task2babel"
   },
